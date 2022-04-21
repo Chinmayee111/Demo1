@@ -1,0 +1,197 @@
+[
+    {
+    "sectionId": 1,
+    "articleList": 
+    [
+        {
+        "articleId": 1, 
+        "articleTitle": "Some title", 
+        "articleImage": "article1.png",
+        "adInfo": {
+            "Adpartner": "google.com"
+            }
+        },
+        {
+        "articleId": 2, 
+        "articleTitle": "Some title",
+        "articleImage": "article2.png",
+        "adInfo": {
+            "Adpartner": "google.com"
+            }
+        },
+        {
+        "articleId": 3, 
+        "articleTitle": "Some title", 
+        "articleImage": "article3.png",
+        "adInfo": {
+            "Adpartner": "google.com"
+            }
+        },
+        {
+        "articleId": 4, 
+        "articleTitle": "Some title", 
+        "adInfo": {
+             "Adpartner": "google.com"
+            }
+        },
+        {
+        "articleId": 5, 
+        "articleTitle": "Some title", 
+        "adInfo": {
+            "Adpartner": "google.com"
+            }
+        },
+        {
+        "articleId": 6, 
+        "articleTitle": "Some title", 
+        "adInfo": {
+            "Adpartner": "google.com"
+            }
+        }
+    ]
+    },
+    {
+        "sectionId": 2,
+        "articleList": [
+            {
+            "articleId": 7, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 8, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 9, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 10, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                 "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 11, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 12, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            }
+        ]
+        
+    },
+    {
+        "sectionId": 3,
+        "articleList": [
+            {
+            "articleId": 13, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 14, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 15, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 16, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                 "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 17, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 18, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            }
+        ]
+        
+    },
+    {
+        "sectionId": 4,
+        "articleList": [
+            {
+            "articleId": 19, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 20, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 21, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 22, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                 "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 23, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            },
+            {
+            "articleId": 24, 
+            "articleTitle": "Some title", 
+            "adInfo": {
+                "Adpartner": "google.com"
+                }
+            }
+        ]
+        
+    }
+]

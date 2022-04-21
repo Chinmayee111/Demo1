@@ -1,0 +1,29 @@
+.container {
+    width:100%;
+}
+#primary {
+    width: 70%;
+    float:left;
+
+
+}
+#secondary {
+    width: 25%;
+    float:right;
+    
+}
+
+.section {
+    margin: 2px;
+    padding: 10px;
+    box-shadow: 1px 1px 1px 1px #888888;
+}
+.grid-container {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    grid-gap: 20px;
+}
+.sideImages {
+    width: 100px;
+}
+

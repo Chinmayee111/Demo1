@@ -1,0 +1,7 @@
+1a95a3d6b98e48db8031b07098b5da89
+
+'https://newsapi.org/v2/everything?' +
+    'q=Apple&' +
+    'from=2022-04-20&' +
+    'sortBy=popularity&' +
+    'apiKey=1a95a3d6b98e48db8031b07098b5da89'

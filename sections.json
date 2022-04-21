@@ -1,0 +1,21 @@
+[{
+    "sectionId":"1", 
+    "sectionName": "Fashion", 
+    "sectionUrl": "section1.png"
+  },
+  {
+    "sectionId":"2", 
+    "sectionName":"Travel", 
+    "sectionUrl": "section2.png"
+  },
+  {
+    "sectionId":"3", 
+    "sectionName": "Beauty", 
+    "sectionUrl": "section3.png"
+  },
+  {
+    "sectionId":"4", 
+    "sectionName": "Book", 
+    "sectionUrl": "section4.png"
+  }
+]
